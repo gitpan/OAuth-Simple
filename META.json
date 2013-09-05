@@ -3,7 +3,7 @@
    "author" : [
       "Alexander Babenko <foxcool@cpan.org>"
    ],
-   "dynamic_config" : 0,
+   "dynamic_config" : 1,
    "generated_by" : "ExtUtils::MakeMaker version 6.72, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
@@ -40,5 +40,10 @@
       }
    },
    "release_status" : "stable",
-   "version" : "1.0"
+   "resources" : {
+      "repository" : {
+         "url" : "https://github.com/Foxcool/OAuth-Simple"
+      }
+   },
+   "version" : "1.01"
 }
